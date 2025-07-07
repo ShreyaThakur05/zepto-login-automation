@@ -1,0 +1,6 @@
+{
+  "zepto": {
+    "login_button": "button[aria-label='login']",
+    "phone_input": "input[type='tel']"
+  }
+}
